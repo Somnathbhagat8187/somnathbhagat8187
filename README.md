@@ -14,8 +14,7 @@
 </p>
 
 
-<!--<h3 align="left">Languages and Tools:</h3>
-</a> <a href="https://www.python.com/" target="_blank"> <img src="https://devicons.github.io/devicon/devicon.git/icons/c/c-original.svg" alt="c" width="40" height="40"/> 
+
 
 
   
