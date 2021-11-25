@@ -1,5 +1,5 @@
  <h1 align="center">Hi 👋, I'm Somnath Bhagat</h1>
- <h3 align="center">A passionate Data sciece and also ML,AI</h3>
+ <h3 align="center">A passionate about Data science and also ML,AI</h3>
  <📫 How to reach me **samonline8187@gmail.com**
  
  
